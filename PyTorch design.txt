@@ -1,0 +1,4 @@
+-The pyTorch redesign was made using react which was a great learning experience.
+- I have also done the functionality for disable buttons.
+- However i have also made some mistakes where i was not able to generate install 
+  command based on selection.
