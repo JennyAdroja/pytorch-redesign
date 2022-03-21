@@ -125,8 +125,9 @@
                     </div>
                    
                   
-                    <div style={{backgroundColor:"gray;",color:"black;" ,paddingBottom:"20px",paddingLeft:"20px"}}>
-                        {displaychoice}
+                    <div style={{backgroundColor:"white;",color:"black;" ,paddingBottom:"20px",paddingLeft:"20px",border:"1px solid black",marginLeft:"20px",marginRight:"20px"}}>
+                        <h2>Run this Command</h2>
+                             {displaychoice+""}
                         </div> 
                    
                 
